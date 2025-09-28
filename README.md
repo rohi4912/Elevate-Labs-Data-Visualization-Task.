@@ -1,4 +1,3 @@
-# Elevate-Labs-Data-Visualization-Task.
 
 # Elevate Labs - Task 2: Data Visualization & Storytelling
 
